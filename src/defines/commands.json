@@ -1,0 +1,146 @@
+{
+  "INTRODUCE": {
+    "TITLE": "apresentar",
+    "DESCRIPTION": "Se apresente para os membros de nossa comunidade e ganhe cargos!"
+  },
+  "ANNOUNCE": {
+    "TITLE": "anunciar",
+    "DESCRIPTION": "ADM: Anuncie no canal de anúncios com o uso do everyone automático."
+  },
+  "COLOR": {
+    "TITLE": "cor",
+    "DESCRIPTION": "APOIADORES: Como um apoiador, você pode ter uma tag colorida customizada!"
+  },
+  "BAN": {
+    "TITLE": "banir",
+    "DESCRIPTION": "ADM: Escolha um usuário para ser banido do servidor."
+  },
+  "UNBAN": {
+    "TITLE": "desbanir",
+    "DESCRIPTION": "ADM: Escolha um usuário para ser desbanido do servidor."
+  },
+  "EXAMPLE": {
+    "TITLE": "exemplo",
+    "DESCRIPTION": "Template para a criação de outros comandos."
+  },
+  "RANKING": {
+    "TITLE": "ranqueamento",
+    "DESCRIPTION": "Veja os usuários mais ativos do servidor!"
+  },
+  "DAILY": {
+    "TITLE": "bonus",
+    "DESCRIPTION": "Pegue aqui sua recompensa diária por interagir no servidor!"
+  },
+  "PROFILE": {
+    "TITLE": "perfil",
+    "DESCRIPTION": "Veja seu perfil."
+  },
+  "PROFILE_PUT": {
+    "TITLE": "perfil-editar",
+    "DESCRIPTION": "Edite seus dados."
+  },
+  "CHAT": {
+    "TITLE": "chat",
+    "DESCRIPTION": "(ADM|MOD): Pause ou continue um chat específico."
+  },
+  "TIMEOUT": {
+    "TITLE": "silenciar",
+    "DESCRIPTION": "(ADM|MOD): Desabilite um usuário por um certo tempo."
+  },
+  "SAY": {
+    "TITLE": "falar",
+    "DESCRIPTION": "Faça o bot mandar uma mensagem em um canal específico."
+  },
+  "CODE": {
+    "TITLE": "codigo",
+    "DESCRIPTION": "Mostrará como formatar um bloco de código no discord."
+  },
+  "CLEAR": {
+    "TITLE": "limpar",
+    "DESCRIPTION": "(ADM|MOD): Limpe as mensagens do chat em questão pelo valor dado."
+  },
+  "APOIASE": {
+    "TITLE": "apoiase",
+    "DESCRIPTION": "Apoie nosso projeto em https://apoia.se/heartdevs e receba bônus exclusivos no servidor!"
+  },
+  "VERSION": {
+    "TITLE": "versao",
+    "DESCRIPTION": "ADM: Verifique a versão atual do bot."
+  },
+  "REPUTATION": {
+    "TITLE": "reputacao",
+    "DESCRIPTION": "Alguém o ajudou em algo no servidor? Envie-o um agradecimento por isso!"
+  },
+  "ASK": {
+    "TITLE": "perguntar",
+    "DESCRIPTION": "Chame a atenção de um usuário para esclarecer suas dúvidas."
+  },
+  "BADGE_CREATE": {
+    "TITLE": "distintivo-criar",
+    "DESCRIPTION": "ADM: Crie um distintivo único para os membros!"
+  },
+  "BADGE_SET": {
+    "TITLE": "distintivo",
+    "DESCRIPTION": "Pegue um distintivo de um evento que você participou?"
+  },
+  "SPECIAL": {
+    "TITLE": "especial",
+    "DESCRIPTION": "Frases características de alguns membros do servidor!"
+  },
+  "ROLE_DELETE": {
+    "TITLE": "cargo-deletar",
+    "DESCRIPTION": "ADM: Deletar um cargo específico."
+  },
+  "ROLE_CREATE": {
+    "TITLE": "cargo-criar",
+    "DESCRIPTION": "ADM: Criar um cargo específico."
+  },
+  "JUDGE": {
+    "TITLE": "avaliar",
+    "DESCRIPTION": "Envie um feedback, seja negativo ou positivo, a um usuário do servidor."
+  },
+  "FORUM_CLOSE": {
+    "TITLE": "forum-fechar",
+    "DESCRIPTION": "(ADM|MOD): Fechar um fórum em específico."
+  },
+  "FORUM_OPEN": {
+    "TITLE": "forum",
+    "DESCRIPTION": "Abra um fórum de ajuda específico e facilite os outros membros a te ajudarem."
+  },
+  "STAGE_START": {
+    "TITLE": "reuniao-iniciar",
+    "DESCRIPTION": "(ADM): Inicialize uma reunião semanal."
+  },
+  "STAGE_FINISH": {
+    "TITLE": "reuniao-finalizar",
+    "DESCRIPTION": "(ADM): Finalize uma reunião semanal existente."
+  },
+  "STAGE_ATA": {
+    "TITLE": "reuniao-ata",
+    "DESCRIPTION": "(ATA): Submeta a ATA de uma reunião que já terminou."
+  },
+  "ONBOARDING_WHY": {
+    "TITLE": "onboarding",
+    "DESCRIPTION": "Entenda o que é o nosso sistema de onboarding."
+  },
+  "ONBOARDING_VOLUNTARY": {
+    "TITLE": "onboarding-voluntariar",
+    "DESCRIPTION": "Voluntarie-se para ajudar novos membros no servidor."
+  },
+  "ONBOARDING_REQUIRE": {
+    "TITLE": "onboarding-requisitar",
+    "DESCRIPTION": "Use este comando para indicar que deseja ser ajudado por um voluntário."
+  },
+  "ONBOARDING_FINALIZE": {
+    "TITLE": "onboarding-finalizar",
+    "DESCRIPTION": "Finalize uma ajuda voluntária."
+  },
+  "ONBOARDING_QUIT": {
+    "TITLE": "onboarding-desistir",
+    "DESCRIPTION": "Desista de ser um voluntário."
+  },
+  "DYNAMIC_VOICE": {
+    "TITLE": "sala",
+    "DESCRIPTION": "Crie um canal de voz temporário."
+  }
+}

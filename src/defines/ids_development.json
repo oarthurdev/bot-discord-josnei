@@ -1,0 +1,361 @@
+{
+  "DYNAMIC_CATEGORY_CHANNEL": {
+    "id": "1051218701338300416",
+    "title": "Voz Dinâmica"
+  },
+  "FORUM_CHANNEL": {
+    "id": "1049889714875932702",
+    "title": "fórum-de-ajuda"
+  },
+  "CALLED_CHANNEL": {
+    "id": "1042817315965763594",
+    "title": "💡| chamados"
+  },
+  "SUGGESTION_CHANNEL": {
+    "id": "1042817315965763594",
+    "title": "💡︱sugestões"
+  },
+  "POMODORO_CHANNEL": {
+    "id": "1045884603778469978",
+    "title": "🟢 Coworking"
+  },
+  "REPORT_CHANNEL": {
+    "id": "1042817315781218333",
+    "title": "🚨 | auto-report"
+  },
+  "MEETING_DELAS_CHANNEL": {
+    "id": "1045470251632042064",
+    "title": "✅︱reunião-das-minas"
+  },
+  "MEETING_CHANNEL": {
+    "id": "1045470226407506071",
+    "title": "✅︱reunião"
+  },
+  "MEETING_VOICE_CHANNEL": {
+    "id": "1049873030387601449",
+    "title": "✅ Reunião Semanal"
+  },
+  "AWAY_VOICE_CHANNEL": {
+    "id": "1042817316334866486",
+    "title": "😴 Ausente"
+  },
+  "CHAT_CHANNEL": {
+    "id": "1042817315965763597",
+    "title": "💬︱bate-papo"
+  },
+  "COMMANDS_CHANNEL": {
+    "id": "1042817315965763599",
+    "title": "🤖︱comandos"
+  },
+  "ADVERTS_CHANNEL": {
+    "id": "1042821299224985640",
+    "title": "📢︱anúncios"
+  },
+  "PRESENTATIONS_CHANNEL": {
+    "id": "1042817316754309184",
+    "title": "📖︱apresentações"
+  },
+  "DONATORS_CHANNEL": {
+    "id": "1042817316158718023",
+    "title": "💳︱apoiadores"
+  },
+  "PUNISHMENTS_CHANNEL": {
+    "id": "1042817315781218330",
+    "title": "📌│punishments-and-mods"
+  },
+  "LEVELUP_CHANNEL": {
+    "id": "1042817318981472322",
+    "title": "📈│levelup"
+  },
+  "LEARNING_DIARY_CHANNEL": {
+    "id": "104281799981472332",
+    "title": "🏆|aprendizado-diário"
+  },
+  "VOLUNTEER_CHANNEL": {
+    "id": "1042817315965763600",
+    "title": "🏆|voluntários"
+  },
+  "VALID_PRESENTATION_DEV_ROLES": [
+    {
+      "id": "1042817315227582488",
+      "name": "GameDev",
+      "emoji": "🎮"
+    },
+    {
+      "id": "1042817315227582487",
+      "name": "JavaScript",
+      "emoji": "📜"
+    },
+    {
+      "id": "1042817315227582486",
+      "name": "Elixir",
+      "emoji": "💧"
+    },
+    {
+      "id": "1042817315227582485",
+      "name": "PHP",
+      "emoji": "🐘"
+    },
+    {
+      "id": "1042817315227582484",
+      "name": "Python",
+      "emoji": "🐍"
+    },
+    {
+      "id": "1042817315206594640",
+      "name": "Perl",
+      "emoji": "🐪"
+    },
+    {
+      "id": "1042817315206594639",
+      "name": "Java",
+      "emoji": "☕"
+    },
+    {
+      "id": "1042817315206594638",
+      "name": "Ruby",
+      "emoji": "💎"
+    },
+    {
+      "id": "1042817315206594637",
+      "name": "C, C++, C#",
+      "emoji": "🇨"
+    },
+    {
+      "id": "1042817315206594636",
+      "name": "UX/UI",
+      "emoji": "🎨"
+    },
+    {
+      "id": "1042824308604551188",
+      "name": "Rust",
+      "emoji": "r"
+    },
+    {
+      "id": "1042824387805597757",
+      "name": "Designer",
+      "emoji": "🎨"
+    },
+    {
+      "id": "1042817315227582486",
+      "name": "Elixir",
+      "emoji": "💧"
+    }
+  ],
+  "VALID_PRESENTATION_ENG_ROLES": [
+    {
+      "id": "1042817315185627258",
+      "name": "Advanced English",
+      "emoji": "🗽"
+    },
+    {
+      "id": "1042817315185627257",
+      "name": "Intermediate English",
+      "emoji": "🗽"
+    },
+    {
+      "id": "1042817315185627256",
+      "name": "Basic English",
+      "emoji": "🗽"
+    }
+  ],
+  "VALID_PRESENTATION_RF": [
+    {
+      "id": "AC",
+      "name": "Acre"
+    },
+    {
+      "id": "AL",
+      "name": "Alagoas"
+    },
+    {
+      "id": "AP",
+      "name": "Amapá"
+    },
+    {
+      "id": "AM",
+      "name": "Amazonas"
+    },
+    {
+      "id": "BA",
+      "name": "Bahia"
+    },
+    {
+      "id": "CE",
+      "name": "Ceará"
+    },
+    {
+      "id": "DF",
+      "name": "Distrito Federal"
+    },
+    {
+      "id": "ES",
+      "name": "Espírito Santo"
+    },
+    {
+      "id": "GO",
+      "name": "Goiás"
+    },
+    {
+      "id": "MA",
+      "name": "Maranhão"
+    },
+    {
+      "id": "MT",
+      "name": "Mato Grosso"
+    },
+    {
+      "id": "MS",
+      "name": "Mato Grosso do Sul"
+    },
+    {
+      "id": "MG",
+      "name": "Minas Gerais"
+    },
+    {
+      "id": "PA",
+      "name": "Pará"
+    },
+    {
+      "id": "PB",
+      "name": "Paraíba"
+    },
+    {
+      "id": "PR",
+      "name": "Paraná"
+    },
+    {
+      "id": "PE",
+      "name": "Pernambuco"
+    },
+    {
+      "id": "PI",
+      "name": "Piauí"
+    },
+    {
+      "id": "RJ",
+      "name": "Rio de Janeiro"
+    },
+    {
+      "id": "RN",
+      "name": "Rio Grande do Norte"
+    },
+    {
+      "id": "RS",
+      "name": "Rio Grande do Sul"
+    },
+    {
+      "id": "RO",
+      "name": "Rondônia"
+    },
+    {
+      "id": "RR",
+      "name": "Roraima"
+    },
+    {
+      "id": "SC",
+      "name": "Santa Catarina"
+    },
+    {
+      "id": "SP",
+      "name": "São Paulo"
+    },
+    {
+      "id": "SE",
+      "name": "Sergipe"
+    },
+    {
+      "id": "TO",
+      "name": "Tocantins"
+    },
+    {
+      "id": "__",
+      "name": "Não moro no Brasil"
+    }
+  ],
+  "HE4RT_DELAS_ROLE": {
+    "id": "1042817315173056629",
+    "name": "He4rt Delas",
+    "emoji": "💗"
+  },
+  "PRESENTING_ROLE": {
+    "id": "1042817315156262917",
+    "name": "Apresentando",
+    "emoji": "🎓"
+  },
+  "PRESENTED_ROLE": {
+    "id": "1042817315173056628",
+    "name": "Apresentou",
+    "emoji": "🎓"
+  },
+  "DONATOR_ROLE": {
+    "id": "1042817315248541753",
+    "name": "Apoiadores",
+    "emoji": "💳"
+  },
+  "NITRO_BOOSTER_ROLE": {
+    "id": "1042817315248541752",
+    "name": "Nitro Booster",
+    "emoji": "⚡"
+  },
+  "BEGINNER_ROLE": {
+    "id": "1042817315227582491",
+    "name": "Beginner",
+    "emoji": "🥉"
+  },
+  "INTERMEDIATE_ROLE": {
+    "id": "1042817315227582492",
+    "name": "Intermediate",
+    "emoji": "🥈"
+  },
+  "ADVANCED_ROLE": {
+    "id": "1042817315227582493",
+    "name": "Advanced",
+    "emoji": "🏅"
+  },
+  "SUPREME_ROLE": {
+    "id": "1042817315248541747",
+    "name": "Supreme",
+    "emoji": "🥇"
+  },
+  "HE4RT_ROLE": {
+    "id": "1042817315269509121",
+    "name": "He4rt",
+    "emoji": "💜"
+  },
+  "HE4RTLESS_ROLE": {
+    "id": "1042817315290497037",
+    "name": "He4rtless",
+    "emoji": "🍷"
+  },
+  "ADMINISTRATOR_ROLE": {
+    "id": "1042817315269509120",
+    "name": "Equipe de Administração",
+    "emoji": "💼"
+  },
+  "MODERATION_ROLE": {
+    "id": "1042817315248541756",
+    "name": "Equipe de Moderação",
+    "emoji": "👮"
+  },
+  "ATA_ROLE": {
+    "id": "1042817315173056628",
+    "name": "Escrivão",
+    "emoji": "✍️"
+  },
+  "VOLUNTEER_ROLE": {
+    "id": "1042817315185627257",
+    "name": "Voluntário",
+    "emoji": "💜"
+  },
+  "SOLVED_TAG": {
+    "id": "1020896504862494790",
+    "name": "Resolvido"
+  },
+  "UNSOLVED_TAG": {
+    "id": "1021558149695680554",
+    "name": "Não Resolvido"
+  },
+  "HE4RT_EMOJI_ID": "<:he4rt:1051194598891991141>",
+  "HE4RT_DELAS_EMOJI_ID": "<:he4rtDelas:1051983616437145610>"
+}
